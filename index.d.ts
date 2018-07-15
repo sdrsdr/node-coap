@@ -1,2 +1,2 @@
-export function createServer():any;
+export function createServer(opts?:any):any;
 export function request(url:string|object):any;
